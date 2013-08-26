@@ -1,0 +1,11 @@
+weixin:
+  login_url: "https://login.weixin.qq.com/jslogin?appid=wx782c26e4c19acffb&redirect_uri=https%3A%2F%2Fwx.qq.com%2Fcgi-bin%2Fmmwebwx-bin%2Fwebwxnewloginpage&fun=new&lang=zh_CN"
+  qr_url: "https://login.weixin.qq.com/qrcode/%s?t=webwx"
+  token_url: "https://login.weixin.qq.com/cgi-bin/mmwebwx-bin/login?uuid=%s&tip=1"
+  init_url: "https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxinit"
+  send_msg_url: "https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxsendmsg?sid=%s&r="
+  sync_url: "https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxsync?sid=%s"
+  device_id: "e538770852445779"
+
+proxy:
+  to_username: "3584085843@chatroom"
